@@ -1,0 +1,23 @@
+.centrado{
+    width: 1200px;
+    margin: 0px auto;
+    background-color: orange;
+}
+
+.fondo{
+    background-color: orange;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+a:hover{
+    background-color: orange;
+}
+
+.fondo{
+    background-color: white;
+}
+
